@@ -1,10 +1,10 @@
 <template>
-   <!-- <div v-on:click="countClicks">
+   <div v-on:click="countClicks">
     <h2>{{ name }}</h2>  
     <p>{{ message }}</p>
     <p id="green">You have clicked me {{ clicks }} times.</p>
     
-  </div> -->
+  </div>
 
 
   <div>

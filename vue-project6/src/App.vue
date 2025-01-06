@@ -17,6 +17,8 @@ import { RouterLink, RouterView } from 'vue-router'
          <RouterLink to="/ref">Reference Hook</RouterLink> |
          <RouterLink to="/lifecycle">lifecycle Hooks</RouterLink> |
          <RouterLink to="/form">Form inputs</RouterLink> |
+         <RouterLink to="/flowers">flowers</RouterLink> |
+         <RouterLink to="/flowerlist">flowerlist</RouterLink> |
 
 
       </nav>
